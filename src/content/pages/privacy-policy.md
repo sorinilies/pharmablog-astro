@@ -1,10 +1,8 @@
 ---
-title: "Privacy"
+title: "Politica de Confidențialitate"
 description: "this is meta description"
 draft: false
 ---
-
-## Politica de Confidențialitate
 
 ### Introducere
 Bine ați venit la Farmacistul Familiei, un blog cu tematică farmaceutică. Ne angajăm să protejăm intimitatea vizitatorilor noștri. Această Politică de Confidențialitate conturează practicile noastre referitoare la colectarea, utilizarea și protecția datelor personale. Ne conformăm strict Regulamentului General privind Protecția Datelor (GDPR) și altor legi relevante.

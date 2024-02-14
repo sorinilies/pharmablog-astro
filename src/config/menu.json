@@ -5,7 +5,7 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Despre",
       "url": "/about"
     },
     {
@@ -13,16 +13,12 @@
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Pagini",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
+          "name": "Categorii",
           "url": "/categories"
         },
         {
@@ -30,11 +26,7 @@
           "url": "/tags"
         },
         {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
+          "name": "Politica de confidentialitate",
           "url": "/privacy-policy"
         }
       ]
@@ -42,7 +34,7 @@
   ],
   "footer": [
     {
-      "name": "Privacy Policy",
+      "name": "Politica de confidentialitate",
       "url": "/privacy-policy"
     }
   ]
