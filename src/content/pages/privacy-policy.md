@@ -7,7 +7,7 @@ draft: false
 ## Politica de Confidențialitate
 
 ### Introducere
-Bine ați venit la [Numele Blogului Dvs.], un blog cu tematică farmaceutică. Ne angajăm să protejăm intimitatea vizitatorilor noștri. Această Politică de Confidențialitate conturează practicile noastre referitoare la colectarea, utilizarea și protecția datelor personale. Ne conformăm strict Regulamentului General privind Protecția Datelor (GDPR) și altor legi relevante.
+Bine ați venit la Farmacistul Familiei, un blog cu tematică farmaceutică. Ne angajăm să protejăm intimitatea vizitatorilor noștri. Această Politică de Confidențialitate conturează practicile noastre referitoare la colectarea, utilizarea și protecția datelor personale. Ne conformăm strict Regulamentului General privind Protecția Datelor (GDPR) și altor legi relevante.
 
 ### Colectarea Datelor Personale
 Singurele date personale pe care le colectăm sunt prin intermediul formularului nostru de contact, pe care îl puteți folosi pentru a ne trimite mesaje. Tipurile de date colectate includ:
@@ -28,7 +28,7 @@ Nu distribuim sau transferăm datele dvs. personale către terțe părți. Infor
 Păstrăm datele personale atât timp cât este necesar pentru a oferi un răspuns și a participa la comunicările inițiate de dvs., utilizatorul, nu mai mult de un an. După această perioadă, datele personale sunt șterse în siguranță.
 
 ### Drepturile Dvs. conform GDPR
-Aveți mai multe drepturi conform GDPR, inclusiv dreptul de a accesa, rectifica sau șterge datele dvs. personale și dreptul de a retrage consimțământul. Dacă doriți să exercitați oricare dintre aceste drepturi, vă rugăm să ne contactați la [Informațiile Dvs. de Contact].
+Aveți mai multe drepturi conform GDPR, inclusiv dreptul de a accesa, rectifica sau șterge datele dvs. personale și dreptul de a retrage consimțământul. Dacă doriți să exercitați oricare dintre aceste drepturi, vă rugăm să ne contactați la info@farmacistulfamiliei.ro
 
 ### Securitatea Datelor
 Implementăm măsuri tehnice și organizatorice adecvate pentru a asigura securitatea datelor dvs. personale împotriva distrugerii accidentale sau ilegale, pierderii, modificării, divulgării neautorizate sau accesului la datele personale transmise, stocate sau altfel prelucrate.
@@ -40,4 +40,4 @@ Este posibil să actualizăm această politică din când în când. Orice modif
 Dacă aveți întrebări sau preocupări cu privire la Politica noastră de Confidențialitate sau practicile noastre de date, vă rugăm să ne contactați la [Informațiile Dvs. de Contact].
 
 ### Data Intrării în Vigoare
-Această Politică de Confidențialitate este efectivă începând cu [Data].
+Această Politică de Confidențialitate este efectivă începând cu 01.02.2024
