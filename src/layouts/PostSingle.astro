@@ -15,92 +15,95 @@ const { Content } = await post.render();
 const { title, description, categories, image, date, tags } = post.data;
 ---
 
-<section class="section">
-  <div class="container">
-    <article class="row justify-center">
+<main class="section">
+  <article class="container">
+    <header class="row justify-center">
       <div class="md:col-10 text-center">
-        <h1 set:html={markdownify(title)} class="h2" />
-        <ul class="mt-4 flex flex-wrap items-center justify-center text-text">
-          <li class="mx-3 flex items-center flex-wrap font-medium">
+        <h1 set:html={markdownify(title)} />
+        <div class="info-icons mt-4 flex flex-wrap items-center justify-center">
+          <time class="mx-3 flex items-center" datetime={date}>
             <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
-            <>{dateFormat(date)}</>
-          </li>
-          <li class="mx-3 flex items-center flex-wrap">
+            {dateFormat(date)}
+          </time>
+          <div class="mx-3 flex items-center">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
-            <>
+            <nav>
               <ul>
-                {
-                  categories.map((category: string, i: number) => (
-                    <li class="inline-block">
-                      <a
-                        href={`/categories/${slugify(category)}`}
-                        class="mr-2 hover:text-primary font-medium"
-                      >
-                        {humanize(category)}
-                        {i !== post.data.categories.length - 1 && ","}
-                      </a>
-                    </li>
-                  ))
-                }
+                {categories.map((category: string, i: number) => (
+                  <li class="inline-block">
+                    <a href={`/categories/${slugify(category)}`} class="mr-2 hover:text-primary">
+                      {humanize(category)}{i !== post.data.categories.length - 1 && ","}
+                    </a>
+                  </li>
+                ))}
               </ul>
-            </>
-          </li>
+            </nav>
+          </div>
+        </div>
+      </div>
+
+      {image && (
+        <figure class="col-12 mt-8 mb-2 text-center">
+          <Image src={image} height={500} width={1000} alt={title} class="rounded-lg" />
+          <figcaption>{description}</figcaption>
+        </figure>
+      )}
+    </header>
+
+    <section class="md:col-10 content mb-16 text-left">
+      <Content />
+      <footer class="flex flex-wrap items-center justify-between">
+        <ul class="tags-container">
+          {tags.map((tag: string) => (
+            <li class="inline-block">
+              <a href={`/tags/${slugify(tag)}`} class="tag-item">
+                #{humanize(tag)}
+              </a>
+            </li>
+          ))}
         </ul>
-      </div>
+        <Share title={title} description={description} slug={post.slug} />
+      </footer>
+    </section>
+  </article>
+</main>
 
-      <div class="col-12 mt-8 mb-2">
-        {
-          image && (
-            <Image
-              src={image}
-              height={500}
-              width={1000}
-              alt={title}
-              class="rounded-lg"
-            />
-          )
-        }
-      </div>
-
-      <div class="md:col-10">
-        <div class="content mb-16 text-left">
-          <Content />
-        </div>
-        <div class="flex flex-wrap items-center justify-between">
-          <ul class="mr-4 mb-4 space-x-3">
-            {
-              tags.map((tag: string) => (
-                <li class="inline-block">
-                  <a
-                    href={`/tags/${slugify(tag)}`}
-                    class="block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark text-sm hover:text-primary transition duration-300"
-                  >
-                    #{humanize(tag)}
-                  </a>
-                </li>
-              ))
-            }
-          </ul>
-          <Share
-            className="social-share mb-4"
-            title={title}
-            description={description}
-            slug={post.slug}
-          />
-        </div>
-      </div>
-    </article>
-  </div>
-</section>
 
 <!-- similar posts -->
-{
-  similarPosts.length > 0 && (
-    <section class="section pt-0">
-      <div class="container">
-        <h2 class="mb-8 text-center h3">Similar Posts</h2>
-        <SimilarPosts posts={similarPosts.slice(0, 3)} />
-      </div>
-    </section>
-  )
+{similarPosts.length > 0 && (
+  <aside class="section pt-0">
+    <div class="container">
+      <h2 class="mb-8 text-center">Postari similare</h2>
+      <SimilarPosts posts={similarPosts.slice(0, 3)} />
+    </div>
+  </aside>
+)}
+
+
+<style>
+
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-start;
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
 }
+
+.tag-item {
+  background-color: var(--theme-light);
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--text-dark);
+  transition: color 0.3s ease;
+}
+
+.tag-item:hover {
+  color: var(--primary);
+}
+</style>
