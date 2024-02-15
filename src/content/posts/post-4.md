@@ -1,7 +1,7 @@
 ---
 title: "Placeholder post"
 description: "meta description"
-image: "/src/images/posts/04.jpg"
+image: "/images/posts/04.jpg"
 date: 2021-02-02T16:56:47+06:00
 draft: false
 authors: ["Mark Dinn"]
