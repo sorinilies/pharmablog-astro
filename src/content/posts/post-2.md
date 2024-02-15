@@ -1,5 +1,5 @@
 ---
-title: Why a balloon is a flexible bag
+title: "Placeholder post"
 description: "meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/02.jpg"
