@@ -2,7 +2,7 @@
 title: "Aspacardin: Ce trebuie să știi despre acest medicament pentru inimă"
 description: "meta description"
 date: 2024-01-01T05:00:00Z
-image: "/images/posts/aspacardin.webp"
+image: "/src/images/posts/aspacardin.webp"
 categories: ["medicamente"]
 tags: ["medicamente", "inimia", "aspacardin", "cardiac", "prospect"]
 draft: false

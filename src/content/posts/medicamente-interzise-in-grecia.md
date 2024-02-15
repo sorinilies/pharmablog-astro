@@ -2,7 +2,7 @@
 title: "Medicamente interzise in Grecia"
 description: "meta description"
 date: 2024-02-01
-image: "/images/posts/greece.webp"
+image: "/src/images/posts/greece.webp"
 categories: ["medicamente"]
 tags: ["travel", "medicamente", "medicamente interzise", "diazepam", "algocalmin", "nurofen", "sirop tuse"]
 draft: false

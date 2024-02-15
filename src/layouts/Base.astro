@@ -8,6 +8,8 @@ import Header from "@/partials/Header.astro";
 import "@/styles/main.scss";
 import { AstroFont } from "astro-font";
 import { ViewTransitions } from "astro:transitions";
+import { SEO } from "astro-seo";
+
 
 // font families
 const pf = theme.fonts.font_family.primary;
@@ -43,6 +45,23 @@ const { title, meta_title, description, image, noindex, canonical } =
 <!doctype html>
 <html lang="en">
   <head>
+        <SEO
+        title="Farmacistul Familiei - Sănătate și Îngrijire pentru Intreaga Familie"
+        description="Farmacistul Familiei oferă sfaturi profesioniste pentru sănătatea și bunăstarea familiei tale. Descoperă produse farmaceutice de calitate și informații de încredere pentru toate nevoile tale de îngrijire personală."
+        openGraph={{
+          basic: {
+            title: "Farmacistul Familiei - Sănătate și Îngrijire pentru Intreaga Familie",
+            type: "website",
+            image: "https://farmacistulfamiliei.ro/images/logo.webp", 
+          }
+        }}
+        twitter={{
+          creator: "@FarmacistulFamiliei"
+        }}
+        extend={{
+          link: [{ rel: "icon", href: "/favicon.ico" }],
+        }}
+    />
     <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />
     {image && (

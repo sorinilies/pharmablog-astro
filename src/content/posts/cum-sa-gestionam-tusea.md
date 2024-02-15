@@ -2,7 +2,7 @@
 title: "Cum să Gestionăm Tusea"
 description: "Descoperiți modalități eficiente de gestionare a tusei, de la remedii naturale la tratamente medicamentoase. Aflați cum să diferențiați tipurile de tuse și să alegeți cel mai bun tratament pentru voi sau familia voastră. Informații utile pentru o viață sănătoasă."
 date: 2022-04-02T06:00:00+00:00
-image: "/images/posts/cum-sa-gestionam-tusea.webp"
+image: "/src/images/posts/cum-sa-gestionam-tusea.webp"
 categories: ["afectiuni"]
 tags: ["tuse", "simptome", "remedii", "antitusive", "respirator", "tuse seaca", "tuse productiva"]
 draft: false

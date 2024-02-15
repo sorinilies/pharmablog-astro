@@ -4,8 +4,8 @@
     "base_url": "https://farmacistulfamiliei.ro",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.webp",
+    "favicon": "/src/images/favicon.png",
+    "logo": "/src/images/logo.webp",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Farmacistul Familiei"
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Farmacistul Familiei",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/src/images/og-image.png",
     "meta_description": "Farmacistul Familiei Blog"
   },
 
