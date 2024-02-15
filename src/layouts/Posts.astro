@@ -16,14 +16,16 @@ const { className, posts, fluid } = Astro.props;
       <article class={i === 0 && fluid !== false ? "col-12" : "col-12 sm:col-6"}>
         {post.data.image && (
           <a href={`/${post.slug}`} class="rounded-lg block hover:text-primary overflow-hidden group">
-            <Image
-              class="group-hover:scale-[1.03] transition duration-300 w-full"
-              src={post.data.image}
-              alt={post.data.title}
-              width={i === 0 ? 925 : 445}
-              height={i === 0 ? 475 : 230}
-            />
-          </a>
+              <Image
+                class="group-hover:scale-[1.03] transition duration-300 w-full object-cover"
+                style={`min-width: ${i === 0 ? '925px' : '445px'}; min-height: ${i === 0 ? '475px' : '230px'}; max-width: ${i === 0 ? '925px' : '445px'}; max-height: ${i === 0 ? '475px' : '230px'};`}
+                src={post.data.image}
+                alt={post.data.title}
+                width={i === 0 ? 925 : 445}
+                height={i === 0 ? 475 : 230}
+                loading="lazy"
+              />
+            </a>
         )}
         <!-- Use nav if the list is used for navigation, otherwise, ul is appropriate for a list of categories -->
         <div class="mt-6 mb-4 flex flex-wrap items-center text-text">

@@ -4,7 +4,6 @@ description: "meta description"
 date: 2024-02-01
 image: "/images/posts/greece.webp"
 categories: ["medicamente"]
-authors: ["Mark Dinn"]
 tags: ["travel", "medicamente", "medicamente interzise", "diazepam", "algocalmin", "nurofen", "sirop tuse"]
 draft: false
 ---
