@@ -1,5 +1,5 @@
 ---
-title: What you need to know about Photography
+title: "Placeholder post"
 description: "meta description"
 date: 2022-04-02T06:00:00+00:00
 image: "/images/posts/03.jpg"
