@@ -128,7 +128,7 @@ const { title, meta_title, description, image, noindex, canonical } =
 
     <!-- noindex robots -->
     {noindex && <meta name="robots" content="noindex,nofollow" />}
-
+    
     <!-- meta-description -->
     <meta
       name="description"
@@ -136,6 +136,9 @@ const { title, meta_title, description, image, noindex, canonical } =
         description ? description : config.metadata.meta_description,
       )}
     />
+
+    <!-- astro-sitemap -->
+    <link rel="sitemap" href="/sitemap-index.xml" />
 
     <ViewTransitions />
 

@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Disallow: /api/*
+Sitemap: https://farmacistulfamiliei.ro/sitemap-index.xml
