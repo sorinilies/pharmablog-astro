@@ -1,6 +1,6 @@
 ---
 title: "Medicamente interzise in Grecia"
-description: "meta description"
+description: "Descoperiți lista medicamentelor interzise în Grecia pe site-ul Farmacistul Familiei, oferind informații esențiale pentru a asigura conformitatea cu reglementările locale."
 date: 2024-02-01
 image: "/images/posts/greece.webp"
 categories: ["medicamente"]

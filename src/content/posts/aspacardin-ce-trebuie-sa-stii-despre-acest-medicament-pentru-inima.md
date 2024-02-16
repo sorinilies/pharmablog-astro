@@ -1,6 +1,6 @@
 ---
 title: "Aspacardin: Ce trebuie să știi despre acest medicament pentru inimă"
-description: "meta description"
+description: "Descoperiți beneficiile Aspacardinului, un medicament pentru inimă, pe site-ul Farmacistul Familiei."
 date: 2024-01-01T05:00:00Z
 image: "/images/posts/aspacardin.webp"
 categories: ["medicamente"]
