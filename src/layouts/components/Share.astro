@@ -24,12 +24,12 @@ const iconSize = '48px';
     </a>
   </li>
   <li class="inline-block">
-    <a
-      aria-label="twitter share button"
-      href={`https://twitter.com/intent/tweet/?text=${title}&amp;url=${base_url}/${slug}`}
-      target="_blank"
-      rel="noreferrer noopener"
-    >
+        <a
+        aria-label="twitter share button"
+        href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(base_url + '/' + slug)}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
       <IoLogoTwitter size={iconSize} />
     </a>
   </li>
