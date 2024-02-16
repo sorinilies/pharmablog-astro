@@ -4,7 +4,7 @@ description: "Descoperiți beneficiile Aspacardinului, un medicament pentru inim
 date: 2024-01-01T05:00:00Z
 image: "/images/posts/aspacardin.webp"
 categories: ["medicamente"]
-tags: ["medicamente", "inimia", "aspacardin", "cardiac", "prospect"]
+tags: ["medicamente", "inima", "aspacardin", "cardiac", "prospect"]
 draft: false
 ---
 

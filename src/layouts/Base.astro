@@ -62,9 +62,13 @@ const { title, meta_title, description, image, noindex, canonical } =
           link: [{ rel: "icon", href: "/favicon.ico" }],
         }}
     />
+    <!-- Preconnect and DNS-Prefetch for ad providers -->
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+    <link rel="preconnect" href="https://l.profitshare.ro" crossorigin>
+    <link rel="dns-prefetch" href="https://l.profitshare.ro">
     <!-- adsense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8307251770707941"
-     crossorigin="anonymous"></script>
+    <script async src-elem="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8307251770707941" crossorigin="anonymous"></script>
     <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />
     {image && (
@@ -73,7 +77,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <!-- theme meta -->
     <meta name="google-adsense-account" content="ca-pub-8307251770707941">
     <meta name='profitshareid' content='adc5586384dfbe6b7337d010e86e62e7' />
-    <meta name="theme-name" content="bookworm-light-astro" />
+    <meta name="theme-name" content="farmacistul familiei" />
     <meta name="msapplication-TileColor" content="#000000" />
     <meta
       name="theme-color"

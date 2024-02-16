@@ -9,6 +9,7 @@ import {
 
 const { base_url } = config.site;
 const { title, description, slug, className } = Astro.props;
+const iconSize = '48px'; 
 ---
 
 <ul class={`${className}`}>
@@ -19,7 +20,7 @@ const { title, description, slug, className } = Astro.props;
       target="_blank"
       rel="noreferrer noopener"
     >
-      <IoLogoFacebook />
+      <IoLogoFacebook size={iconSize} />
     </a>
   </li>
   <li class="inline-block">
@@ -29,7 +30,7 @@ const { title, description, slug, className } = Astro.props;
       target="_blank"
       rel="noreferrer noopener"
     >
-      <IoLogoTwitter />
+      <IoLogoTwitter size={iconSize} />
     </a>
   </li>
   <li class="inline-block">
@@ -39,7 +40,7 @@ const { title, description, slug, className } = Astro.props;
       target="_blank"
       rel="noreferrer noopener"
     >
-      <IoLogoLinkedin />
+      <IoLogoLinkedin size={iconSize} />
     </a>
   </li>
   <li class="inline-block">
@@ -49,7 +50,7 @@ const { title, description, slug, className } = Astro.props;
       target="_blank"
       rel="noreferrer noopener"
     >
-      <IoLogoPinterest />
+      <IoLogoPinterest size={iconSize} />
     </a>
   </li>
 </ul>

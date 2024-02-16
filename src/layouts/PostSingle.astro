@@ -61,11 +61,14 @@ const { title, description, categories, image, date, tags } = post.data;
             </li>
           ))}
         </ul>
-        <Share title={title} description={description} slug={post.slug} />
+        <div>
+          <span class="share-text mr-2">Distribuie aceasta postare:</span>
+          <Share title={title} description={description} slug={post.slug} />
+        </div>
       </footer>
     </section>
   </article>
-</main>
+</main>``
 
 
 <!-- similar posts -->
@@ -89,6 +92,7 @@ const { title, description, categories, image, date, tags } = post.data;
   padding: 0;
   list-style-type: none;
   margin: 0;
+  margin-bottom: 3rem;
 }
 
 .tag-item {
