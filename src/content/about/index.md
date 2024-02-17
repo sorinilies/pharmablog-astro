@@ -16,6 +16,6 @@ M-am hotărât să creez acest blog din dorința de a împărtăși informații 
 - Sfaturi pentru un stil de viață sănătos
 - Noutăți din domeniul farmaceutic
 
-Sper ca informațiile pe care le veți găsi aici să vă fie utile. Nu ezitați să îmi puneți întrebări în secțiunea de comentarii sau să îmi trimiteți sugestii prin una din metodele de pe pagina de contact.
+Sper ca informațiile pe care le veți găsi aici să vă fie utile. Nu ezitați să îmi puneți întrebări sau să îmi trimiteți sugestii prin una din metodele de pe pagina de contact.
 
 Vă doresc o lectură plăcută!
