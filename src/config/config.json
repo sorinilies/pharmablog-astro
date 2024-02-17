@@ -23,7 +23,7 @@
   },
 
   "params": {
-    "contact_form_action": "mailgun.havokfs.workers.dev",
+    "contact_form_action": "mail.farmacistulfamiliei.ro",
     "copyright": "Copyright © 2024 Farmacistul Familiei"
   },
 
