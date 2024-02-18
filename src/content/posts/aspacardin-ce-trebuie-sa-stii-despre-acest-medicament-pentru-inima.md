@@ -1,6 +1,6 @@
 ---
 title: "Aspacardin: Ce trebuie să știi despre acest medicament pentru inimă"
-description: "Descoperiți beneficiile Aspacardinului, un medicament pentru inimă, pe site-ul Farmacistul Familiei."
+description: "Descoperiți beneficiile Aspacardinului, un medicament pentru inimă, vedeti prospect, pret, contraindicatii"
 date: 2024-01-01T05:00:00Z
 image: "/images/posts/aspacardin.webp"
 categories: ["medicamente"]
@@ -41,7 +41,7 @@ Aspacardin este utilizat ca terapie adjuvantă, adică suplimentară altor trata
 Aspacardin poate fi un medicament util pentru susținerea sănătății inimii, dar este important să discutați cu medicul dumneavoastră înainte de a lua acest medicament, pentru a vă asigura că este potrivit pentru dumneavoastră.
 
 >
-> **[Pentru a vizualiza prospectul sau a cumpara Aspacardin de pe helpnet.ro, faceti click aici](https://www.helpnet.ro/aspacardin-39mg-12mg-x-30cpr)**
+> **[Pentru a vizualiza prospectul, contraindicatii sau a cumpara Aspacardin de pe helpnet.ro, faceti click aici](https://www.helpnet.ro/aspacardin-39mg-12mg-x-30cpr)**
 >
 
 
