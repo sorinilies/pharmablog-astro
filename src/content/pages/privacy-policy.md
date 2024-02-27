@@ -35,7 +35,7 @@ Implementăm măsuri tehnice și organizatorice adecvate pentru a asigura securi
 Este posibil să actualizăm această politică din când în când. Orice modificări vor fi postate pe această pagină, cu data revizuirii actualizată.
 
 ### Contactați-ne
-Dacă aveți întrebări sau preocupări cu privire la Politica noastră de Confidențialitate sau practicile noastre de date, vă rugăm să ne contactați la [Informațiile Dvs. de Contact].
+Dacă aveți întrebări sau preocupări cu privire la Politica noastră de Confidențialitate sau practicile noastre de date, vă rugăm să ne contactați la info@farmacistulfamiliei.ro
 
 ### Data Intrării în Vigoare
 Această Politică de Confidențialitate este efectivă începând cu 01.02.2024
