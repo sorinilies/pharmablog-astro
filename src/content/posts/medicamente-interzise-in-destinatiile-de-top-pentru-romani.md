@@ -2,7 +2,7 @@
 title: "Medicamente interzise în destinațiile de top pentru români"
 description: "Descoperiți lista medicamentelor interzise în destinațiile populare de vacanță pentru români, asigurând conformitatea cu reglementările locale și evitând problemele legale."
 date: 2024-05-23
-image: "/images/posts/medicamente-interzise-vacanta.webp"
+image: "/images/posts/medicamente-interzise-in-destinatiile-de-top-pentru-romani.webp"
 categories: ["medicamente", "turism", "vacanță"]
 tags: [
   "medicamente interzise", 
