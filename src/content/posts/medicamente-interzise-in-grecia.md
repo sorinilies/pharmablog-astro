@@ -3,7 +3,7 @@ title: "Medicamente interzise in Grecia"
 description: "Descoperiți lista medicamentelor interzise în Grecia pe site-ul Farmacistul Familiei, oferind informații esențiale pentru a asigura conformitatea cu reglementările locale."
 date: 2024-02-01
 image: "/images/posts/grecia.webp"
-categories: ["medicamente"]
+categories: ["medicamente", "turism", "vacanță"]
 tags: ["travel", "medicamente", "medicamente interzise", "diazepam", "algocalmin", "nurofen", "sirop tuse"]
 draft: false
 ---
