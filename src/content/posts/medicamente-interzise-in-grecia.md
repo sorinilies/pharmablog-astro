@@ -12,9 +12,9 @@ Medicamentele sunt o parte importantă a bagajului de vacanță pentru orice tur
 
 Un tour operator cunoscut din România trage un semnal de alarmă turiștilor români care intenționează să viziteze Grecia, atenționându-i cu privire la următoarele medicamente interzise:
 
-- Diazepam
-- Tramadol
-- Medicamente care conțin codeină (inclusiv Algocalmin, Nurofen și siropuri de tuse pentru copii)
+- **Diazepam** (Denumire comercială: Diazepam ) - interzisă fără prescripție
+- **Tramadol** (Denumire comercială: Tramadol, Zaldiar, Doreta, Mabron, Skudexa ) - interzisă fără prescripție
+- **Medicamente care conțin codeină** (inclusiv Nurofen Plus, Solpadeine, Ultracod, Codamin P, Fasconal ) - interzise complet
 
 Interdicția privind codeina a intrat în vigoare în 2023, deci este esențial să verificați cu atenție compoziția medicamentelor pe care le luați cu voi.
 
