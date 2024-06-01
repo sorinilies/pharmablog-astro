@@ -1,6 +1,7 @@
 ---
 title: "Aerius: cum sa combati alergiile sezoniere"
-description: "Explorați eficacitatea Aerius în ameliorarea alergiilor sezoniere: aflați despre dozare, avantaje, siguranța pentru copii și cum combate simptomele fără somnolență. Informații complete, recomandări și prospect"
+description: "Explorați eficacitatea Aerius în ameliorarea alergiilor sezoniere: aflați despre dozare, avantaje, in cat timp isi face efectul aerius,
+siguranța pentru copii și cum combate simptomele fără somnolență. Informații complete, recomandări și prospect"
 date: 2024-03-21T05:00:00Z
 image: "/images/posts/aerius-cum-sa-combati-alergiile-sezoniere.webp"
 categories: ["medicamente"]
