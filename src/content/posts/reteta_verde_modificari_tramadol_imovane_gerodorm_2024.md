@@ -1,8 +1,7 @@
-
 ---
 title: "Modificări privind rețeta verde în 2024: Tramadol, Imovane și Gerodorm incluse în categoria medicamentelor sub control național"
 description: "Aflați despre noile reglementări din 2024 ce includ Tramadol, Imovane și Gerodorm pe rețeta verde, cu scopul de a reduce riscul de abuz și a îmbunătăți siguranța pacienților. Informații esențiale pentru pacienți și cadre medicale despre prescrierea acestor medicamente."
-image: "/images/posts/modificari-reteta-verde-2024-tramadol-imovane-gerodorm.webp"
+image: "/images/posts/modificari-reteta-verde-2024-tramadol-imovane-gerodorm.jpg"
 date: 2024-11-04
 draft: false
 tags: ["medicamente", "reteta verde", "legislatie", "siguranta pacientului"]
